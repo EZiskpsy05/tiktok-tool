@@ -1,0 +1,31 @@
+đây là một công cụ đơn giản để sử dụng, bạn cần cài đặt python nếu không nó sẽ đóng lại.
+
+hướng dẫn:
+cài đặt chromedriver tại đây: https://chromedriver.chromium.org/downloads
+đặt nó trong thư mục
+mở bảng điều khiển lệnh bên trong thư mục Tiktok
+cài đặt các yêu cầu (pip install -r request.txt) bên trong dấu nhắc lệnh
+bây giờ hãy chạy công cụ và chọn tùy chọn của bạn.
+
+ĐỂ Ý**
+công cụ này gần như hoàn toàn tự động, tất cả những gì bạn phải làm là nhập hình ảnh xác thực khi bắt đầu và
+sau đó để nó chạy bao lâu tùy thích, không gây rối với tab chrome sau khi bạn vào
+captcha hoặc bạn có thể phá vỡ trình tự của công cụ.
+
+theo dõi tôi trên tiktok doe :) https://www.tiktok.com/@anonkhoa07
+
+tham gia vào máy chủ nếu bạn có bất kỳ vấn đề nào.
+
+https://discord.gg/b9exrJ2y
+https://discord.gg/b9exrJ2y
+https://discord.gg/b9exrJ2y
+https://discord.gg/b9exrJ2y
+https://discord.gg/b9exrJ2y
+
+
+____________________________________________________________
+
+một số vấn đề phổ biến với python selen là việc sử dụng phiên bản chromedriver sai, vì vậy hãy đảm bảo bạn đã cài đặt đúng phiên bản
+nếu bạn không thể cài đặt các yêu cầu thì bảng điều khiển cmd của bạn không được mở trong thư mục.
+sử dụng (cd Desktop) - (cd Tiktok) nếu thư mục của bạn nằm trên màn hình.
+bây giờ hãy thử lại https://chromedriver.chromium.org/downloads
